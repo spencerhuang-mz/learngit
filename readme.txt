@@ -7,4 +7,5 @@ set: git config --global user.email "spencerwong.mz@github.com"
 
 add new branch dev.
 git checkout -b dev.
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
