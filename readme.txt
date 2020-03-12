@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 set: git config --global user.name "spencerwong-mz"
 set: git config --global user.email "spencerwong.mz@github.com"
+
+add new branch dev.
