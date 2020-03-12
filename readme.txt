@@ -9,5 +9,4 @@ add new branch dev.
 git checkout -b dev.
 
 Creating a new branch is quick and simple.
-1. Fast-Forward.
-2. View no-ff.
+1. View no-ff.
